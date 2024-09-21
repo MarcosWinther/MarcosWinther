@@ -1,9 +1,13 @@
-## 👨‍💻 Olá! Sou o Marcos Winther Silva Carreiro
+# 👋 Olá! Sou o Marcos Winther Silva Carreiro 👨‍💻
 
-- 😄 Pronouns: Ele/dele
-- 👨‍🎓 Bacharel em Sistemas de Informação (07/2016 - 07/2020) pelo Instituto Luterano de Ensino Superior de Itumbiara (ILES ULBRA)
-- 🛠 Trabalhei por mais de 4 anos como Técnico em Informática.
-- 🏃‍♂️ Procuro oportunidade de trabalhar como Desenvolvedor Front-End Jr.
+Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e desenvolvimento web, buscando sempre novas maneiras de aprender e me aperfeiçoar. Atualmente, estou focado em crescer como desenvolvedor full-stack, aplicando minhas habilidades em projetos inovadores.
+
+## 💼 Sobre mim:
+- 🎓 Formado em Sistemas de Informação pelo ILES ULBRA (2016-2020);
+- 👨‍🔧 Mais de 4 anos de experiência com suporte técnico e TI;
+- 🌍 Apaixonado por colaborar em projetos que impactam positivamente o mundo;
+- 📚 Estudando atualmente: NodeJS e Power BI;
+- 📈 Focado em me tornar um desenvolvedor full-stack completo!
 
 ## 📱 Portfólio GitHub e minhas redes sociais:
 
@@ -12,26 +16,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoswinthersilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcossilvacarreiro/)
 
-<br>
 
-## 💻 Tecnologias que uso no meu dia:
+## 🛠️ Tecnologias & Ferramentas:
 
-<div style="display: inline_block">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit">
-</div>
-<br>
+- Front-end: ``HTML``, ``CSS``, ``SASS``, ``SCSS``, ``JavaScript``, ``TypeScript``, ``Angular``, ``Bootstrap``;
+- Back-end: ``JavaScript/TypeScript``, ``Python``, ``NodeJS``, ``SQL``;
+- Linguagens de Programação: ``JavaScript/TypeScript``, ``Python``;
+- Banco de Dados: ``SQL``;
+- Ferramentas: ``Git``, ``GitHub``, ``Power BI``;
+- Inteligências Artificiais Generativas: ``ChatGPT``, ``Gemini``.
+
+## 🌟 Minhas estatísticas no GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosWinther&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Marcos Carreiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosWinther&show_icons=true&theme=dracula)
 <br><br>
+
+## 🐍 Commit Snake: A Cobra Fome de Commits!
+
+🎮 Mergulhe na diversão com o Commit Snake, um jogo interativo em que uma cobra devora os commits feitos neste repositório! Cada commit é um alimento para a cobra, mostrando a evolução do seu código de uma forma dinâmica e divertida. ***Faça um commit e alimente a cobra!***
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosWinther/MarcosWinther/output/github-contribution-grid-snake-dark.svg">
