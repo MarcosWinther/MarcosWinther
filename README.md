@@ -20,9 +20,9 @@ Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e desenvo
 ## 🛠️ Tecnologias & Ferramentas:
 
 - Front-end: ``HTML``, ``CSS``, ``SASS``, ``SCSS``, ``JavaScript``, ``TypeScript``, ``Angular``, ``Bootstrap``;
-- Back-end: ``JavaScript/TypeScript``, ``Python``, ``NodeJS``, ``SQL``;
+- Back-end: ``JavaScript/TypeScript``, ``Python``, ``NodeJS``, ``SQL``, ``NoSQL``;
 - Linguagens de Programação: ``JavaScript/TypeScript``, ``Python``;
-- Banco de Dados: ``SQL``;
+- Banco de Dados: ``MySQL(SQL)``, ``MongoDB(NoSQL)``;
 - Ferramentas: ``Git``, ``GitHub``, ``Power BI``;
 - Inteligências Artificiais Generativas: ``ChatGPT``, ``Gemini``.
 
