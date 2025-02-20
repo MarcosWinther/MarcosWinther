@@ -1,6 +1,16 @@
 # 👋 Olá! Sou o Marcos Winther Silva Carreiro 👨‍💻  
 
-Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e dados, sempre buscando novas maneiras de aprender e me aperfeiçoar. Atualmente, estou focado em crescer como Engenheiro de Dados, aplicando minhas habilidades em projetos de ETL, análise e processamento de dados.  
+🚀 **Bem-vindo ao meu repositório no GitHub!**  
+
+💡 Sou apaixonado por **tecnologia e dados**, sempre buscando novas maneiras de **aprender** e me **aperfeiçoar**.  
+
+📊 Atualmente, estou focado em crescer como **Engenheiro de Dados**, aplicando minhas habilidades em:  
+  - 🔹 **ETL** - Extração, Transformação e Carga de Dados  
+  - 📈 **Análise e Processamento de Dados** para gerar insights valiosos  
+  - ⚙️ **Otimização de Pipelines** e manipulação de grandes volumes de dados  
+ 
+
+<br>
 
 
 ## 💼 Sobre mim:  
@@ -10,6 +20,8 @@ Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e dados, 
 - ⚙️ Estudando atualmente: Engenharia de Dados, ETL e processamento de dados;  
 - 🌍 Apaixonado por transformar dados em insights valiosos e contribuir para projetos de impacto!  
 
+<br>
+
 
 ## 📱 Portfólio GitHub e minhas redes sociais:
 
@@ -17,6 +29,8 @@ Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e dados, 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winthermarcos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoswinthersilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcossilvacarreiro/)
+
+<br>
 
 
 ## 🛠️ Tecnologias & Ferramentas:
@@ -27,6 +41,8 @@ Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e dados, 
 - Banco de Dados: ``MySQL(SQL)``, ``MongoDB(NoSQL)``;
 - Ferramentas: ``Git``, ``GitHub``, ``Power BI``;
 - Inteligências Artificiais Generativas: ``ChatGPT``, ``Gemini``.
+
+<br>
 
 
 ## 🌟 Minhas estatísticas no GitHub:
