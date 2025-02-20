@@ -1,13 +1,15 @@
-# 👋 Olá! Sou o Marcos Winther Silva Carreiro 👨‍💻
+# 👋 Olá! Sou o Marcos Winther Silva Carreiro 👨‍💻  
 
-Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e desenvolvimento web, buscando sempre novas maneiras de aprender e me aperfeiçoar. Atualmente, estou focado em crescer como desenvolvedor full-stack, aplicando minhas habilidades em projetos inovadores.
+Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e dados, sempre buscando novas maneiras de aprender e me aperfeiçoar. Atualmente, estou focado em crescer como Engenheiro de Dados, aplicando minhas habilidades em projetos de ETL, análise e processamento de dados.  
 
-## 💼 Sobre mim:
-- 🎓 Formado em Sistemas de Informação pelo ILES ULBRA (2016-2020);
-- 👨‍🔧 Mais de 4 anos de experiência com suporte técnico e TI;
-- 🌍 Apaixonado por colaborar em projetos que impactam positivamente o mundo;
-- 📚 Estudando atualmente: NodeJS e Power BI;
-- 📈 Focado em me tornar um desenvolvedor full-stack completo!
+
+## 💼 Sobre mim:  
+- 🎓 Formado em Sistemas de Informação pelo ILES ULBRA (2016-2020);  
+- 👨‍🔧 Mais de 4 anos de experiência com suporte técnico e TI;  
+- 📊 Experiência com SQL, Python, Power BI e Pandas;  
+- ⚙️ Estudando atualmente: Engenharia de Dados, ETL e processamento de dados;  
+- 🌍 Apaixonado por transformar dados em insights valiosos e contribuir para projetos de impacto!  
+
 
 ## 📱 Portfólio GitHub e minhas redes sociais:
 
@@ -26,11 +28,13 @@ Bem-vindo ao meu repositório no GitHub! Sou apaixonado por tecnologia e desenvo
 - Ferramentas: ``Git``, ``GitHub``, ``Power BI``;
 - Inteligências Artificiais Generativas: ``ChatGPT``, ``Gemini``.
 
+
 ## 🌟 Minhas estatísticas no GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosWinther&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Marcos Carreiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosWinther&show_icons=true&theme=dracula)
 <br><br>
+
 
 ## 🐍 Commit Snake: A Cobra Fome de Commits!
 
