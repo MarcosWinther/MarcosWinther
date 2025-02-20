@@ -1,6 +1,14 @@
-# 👋 Olá! Sou o Marcos Winther Silva Carreiro 👨‍💻  
+<h1 align="center">
+  👋 Olá! Sou o Marcos Winther Silva Carreiro 👨‍💻
+</h1>   
 
-🚀 **Bem-vindo ao meu repositório no GitHub!**  
+<p align="center">
+  <img src="./.github/assets/img/capa.jpg" width="100%" />
+</p>
+
+<h2 align="center">
+  🚀 Seja bem-vindo ao meu repositório no GitHub!
+</h2>
 
 💡 Sou apaixonado por **tecnologia e dados**, sempre buscando novas maneiras de **aprender** e me **aperfeiçoar**.  
 
