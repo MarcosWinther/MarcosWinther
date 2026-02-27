@@ -11,8 +11,6 @@
 <br>
 
 
-## 🚀 Sobre mim
-
 ## 👨‍💻 Sobre mim
 
 Sou Engenheiro de Dados em formação, com foco na construção de **soluções de dados escaláveis**, pipelines bem estruturados e integrações eficientes em ambientes modernos.
