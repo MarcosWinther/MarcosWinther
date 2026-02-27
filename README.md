@@ -80,17 +80,20 @@ Orquestração de múltiplas fontes para relatórios e dashboards analíticos.
 
 <table>
   <tr>
-    <td width="100px">
-      <img src="https://avatars.githubusercontent.com/u/44624583?v=4" width="90px" style="border-radius:50%;" />
+    <td width="110px" align="center">
+      <img src="https://avatars.githubusercontent.com/u/44624583?v=4" width="95px" style="border-radius:50%;" />
     </td>
-    <td>
-      <strong>Marcos Winther</strong><br>
-      Engenheiro de Dados Júnior<br><br>
+    <td align="left">
+      <a href="mailto:winthermarcos@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contato_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+      <br><br>
       <a href="https://www.linkedin.com/in/marcoswinthersilva/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Marcos_Winther-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
+      <br><br>
       <a href="https://github.com/MarcosWinther" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-MarcosWinther-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-Marcos_Winther-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
