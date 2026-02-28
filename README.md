@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/Gemini_Generated_Image_urc29turc29turc2.png" alt="Capa de Engenheiro de Dados" />
+  <img src="./.github/assets/Gemini_Generated_Image_urc29turc29turc2.png" alt="Capa de Engenheiro de Dados" width="100%" />
 </p>
 
 <h1 align="center">Marcos Winther</h1>
@@ -52,8 +52,11 @@ Estou em evolução contínua e preparado para atuar como **Engenheiro de Dados 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosWinther&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosWinther&layout=compact&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosWinther&show_icons=true&theme=tokyonight&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosWinther&layout=compact&theme=tokyonight" />
 </p>
 
 <br>
@@ -76,28 +79,25 @@ Orquestração de múltiplas fontes para relatórios e dashboards analíticos.
 <br>
 
 
-## 📫 Conecte-se comigo
+## 📫 Contato
 
-<table>
-  <tr>
-    <td width="110px" align="center">
-      <img src="https://avatars.githubusercontent.com/u/44624583?v=4" width="95px" style="border-radius:50%;" />
-    </td>
-    <td align="left">
-      <a href="mailto:winthermarcos@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contato_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-      <br><br>
-      <a href="https://www.linkedin.com/in/marcoswinthersilva/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Marcos_Winther-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <br><br>
-      <a href="https://github.com/MarcosWinther" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Marcos_Winther-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/44624583?v=4" width="90px" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <a href="mailto:winthermarcos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/marcoswinthersilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos_Winther-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/MarcosWinther">
+    <img src="https://img.shields.io/badge/GitHub-MarcosWinther-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 
 <p align="center">
@@ -110,7 +110,7 @@ Orquestração de múltiplas fontes para relatórios e dashboards analíticos.
 ## 🐍 Atividade de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcosWinther/MarcosWinther/output/github-contribution-grid-snake.svg" alt="Snake contributions" />
+  <img src="https://raw.githubusercontent.com/MarcosWinther/MarcosWinther/output/github-contribution-grid-snake.svg" alt="Snake contributions" width="100%" />
 </p>
 
 <br>
